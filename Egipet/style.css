@@ -1,0 +1,40 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container
+{
+    width: 52%;
+}
+h1
+{color: green; text-align: center; margin: 20px;}
+h2
+{ font-size: 16px; font-weight: 100; margin: 20px 20px 20px 0px;}
+p
+{
+    text-align: justify;
+    margin-left: 40px;
+}
+
+.Addition
+{
+    margin-top: 20px;
+
+}
+
+.important__information
+{
+    color: green;
+    text-align: center; 
+    margin: 20px;
+    font-size: 2em;
+    font-weight: bold;
+}
