@@ -1,0 +1,56 @@
+/* Container */
+.container
+{
+    width: 80%;
+}
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Titles Styles */
+h1
+{
+    text-align: center;
+    color: green;
+    font-size: 24px;
+}
+
+h2
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    padding: 10px;
+    margin: 0;
+}
+
+/* Subtitles Styles */
+p
+{
+    padding-left: 55px;
+}
+hr 
+{
+    border: none;
+    border-top: 2px solid red;
+    margin: 0 0 0 55px;
+    padding-left: 20px;
+}
+span
+{
+    color: green;
+}
+
+/* List Items Styles */
+li 
+{
+    list-style-type: square;
+}
+li ul li
+{
+    list-style-type: disc;
+}
