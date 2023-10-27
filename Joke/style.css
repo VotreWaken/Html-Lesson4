@@ -1,0 +1,17 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ol li {
+    color: green;
+  }
+  
+  ol li ul li {
+    color: black;
+  }
+  
+  ul li {
+    color: black;
+  }
